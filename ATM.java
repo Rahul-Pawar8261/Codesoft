@@ -18,7 +18,7 @@ public class ATM implements ActionListener
 		mainframe.setSize(1200,1200);
 		mainframe.setLayout(null);
 		mainframe.setVisible(true);
-		mainframe.getContentPane().setBackground(Color.pink);
+		mainframe.getContentPane().setBackground(Color.yellow);
 		//createing  font with font size
  		Font fnt1=new Font("Elephant",Font.BOLD,30);
  		Font fnt2=new Font("Arial",Font.BOLD,30);
